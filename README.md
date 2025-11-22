@@ -4,6 +4,10 @@ This project is a concept website designed for a home health or healthcare servi
 
 ---
 
+🔗 **Live Demo:** https://jazzblackartist.github.io/SentinelHomeHealth/
+
+---
+
 ## ✨ Features
 - Clean, professional layout  
 - Service-focused landing page sections  
