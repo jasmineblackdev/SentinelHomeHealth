@@ -4,7 +4,7 @@ This project is a concept website designed for a home health or healthcare servi
 
 ---
 
-🔗 **Live Demo:** https://jazzblackartist.github.io/SentinelHomeHealth/
+🔗 **Live Demo:** https://jasmineblackdev.github.io/SentinelHomeHealth/
 
 ---
 
